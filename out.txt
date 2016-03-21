@@ -1,0 +1,10 @@
+1 OK
+0 OK
+1 SAT
+2 SAT
+3 SAT
+4 SAT
+BB
+  +3                       0
+0 OK
+9 OK
